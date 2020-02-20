@@ -15,4 +15,4 @@ $ python setup.py install
 
 Step 2: Download the pre-trained weights for COCO model from MatterPort.https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 
-Step 3: run the python notebook!
+Step 3: run the python notebook! for custom model.
